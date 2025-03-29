@@ -3,11 +3,10 @@ public class yourname {
 	{
 		for (int i=1; i<=7; i++)
 		{
-			System.out.println("Idan Ovadia");
+			System.out.println("You look like Oscar Issac ");
 			
 		}
-		System.out.println("Idan Ovadia is liking it");
-
+		System.out.println("")
 	}
 
 
