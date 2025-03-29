@@ -6,7 +6,7 @@ public class yourname {
 			System.out.println("You look like Oscar Issac ");
 			
 		}
-		System.out.println("")
+		System.out.println("");
 	}
 
 
